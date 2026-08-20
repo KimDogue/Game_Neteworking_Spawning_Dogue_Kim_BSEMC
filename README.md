@@ -57,3 +57,12 @@ Send the repository link to this
 
 
 
+
+
+Ito na po yung Gawa ko pong Networking 
+## Project Demonstration
+<img width="800" height="450" alt="bandicam2026-08-2015-37-19-543-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b44f39e6-0265-46d7-a478-9c8210437f05" />
+
+
+
+
