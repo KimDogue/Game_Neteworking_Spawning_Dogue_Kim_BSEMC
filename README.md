@@ -66,9 +66,10 @@ Send the repository link to this
 ## Ito na po yung Gawa ko  na Networking!
 ## Project Demonstration
 # Video
-
-https://github.com/user-attachments/assets/3be6735c-293e-4d53-912b-7cec9754b634
 https://youtu.be/BtiM-DUR6aY
+##
+https://github.com/user-attachments/assets/3be6735c-293e-4d53-912b-7cec9754b634
+
 
 
 
